@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793483185764,
+      "tag": "0000_crear_tabla_books",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793483197422,
+      "tag": "0001_agregar_genero_stock_y_updated_at",
+      "breakpoints": true
+    }
+  ]
+}
